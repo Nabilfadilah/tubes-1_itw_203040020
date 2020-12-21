@@ -1,0 +1,18 @@
+googlefont
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+</style>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Castoro&display=swap" rel="stylesheet">
+
+
+boxicon.com
+
+<box-icon name='menu'></box-icon>
+<i class='bx bx-menu'></i>
+
+
+scrollreveal.org
+
+<script src="https://unpkg.com/scrollreveal"></script>
